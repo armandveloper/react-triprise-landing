@@ -1,0 +1,26 @@
+.button {
+	background-color: transparent;
+	border: 1px solid transparent;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 1.8rem;
+	font-weight: 700;
+	padding: 1rem 2.5rem;
+	text-align: center;
+}
+.button-primary {
+	background-color: var(--color-blue);
+	border-color: var(--color-blue);
+}
+.button-white {
+	background-color: #fff;
+	color: var(--color-dark);
+}
+.uppercase {
+	text-transform: uppercase;
+}
+.capitalize {
+	text-transform: capitalize;
+}

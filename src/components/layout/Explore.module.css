@@ -1,0 +1,15 @@
+.headline {
+	font-size: 2.8rem;
+	margin: 0;
+}
+.description {
+	color: #8e8e8e;
+	font-size: 2.2rem;
+	margin-top: 1rem;
+}
+.grid {
+	margin-top: 4rem;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	column-gap: 5rem;
+}

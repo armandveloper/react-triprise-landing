@@ -1,26 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Header from './components/layout/Header/Header';
+import Hero from './components/ui/Hero';
+import Features from './components/layout/Features';
+import Explore from './components/layout/Explore';
+import Offer from './components/layout/Offer';
+import Destinations from './components/layout/Destinations';
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+	return (
+		<>
+			<Header />
+			<Hero />
+			<Features />
+			<Explore />
+			<Offer />
+			<Destinations />
+		</>
+	);
 }
 
 export default App;

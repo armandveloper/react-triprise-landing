@@ -1,0 +1,17 @@
+.button {
+	background-color: var(--color-blue);
+	border: none;
+	border-radius: 5px;
+	color: #fff;
+	cursor: pointer;
+	font-size: 2rem;
+	text-align: center;
+	padding: 2rem 2.2rem;
+}
+.button:focus {
+	outline: none;
+}
+.icon {
+	color: #fff;
+	margin-right: 0;
+}

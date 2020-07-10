@@ -1,0 +1,9 @@
+.link {
+	color: #000;
+	font-size: 2rem;
+	font-weight: 500;
+	padding: 0 2rem;
+}
+a:last-of-type {
+	margin-left: 2.5rem;
+}

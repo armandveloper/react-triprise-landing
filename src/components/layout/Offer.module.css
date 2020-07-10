@@ -1,0 +1,37 @@
+.container {
+	margin-top: 8rem;
+	margin-bottom: 8rem;
+}
+
+.grid {
+	display: grid;
+	grid-template-columns: repeat(2, 1fr);
+}
+.inner {
+	background-color: var(--color-dark);
+	color: #fff;
+	padding-bottom: 2rem;
+	padding-top: 4rem;
+	text-align: center;
+}
+.image {
+	height: 38rem;
+	display: block;
+	width: 100%;
+}
+.headline {
+	margin-bottom: 1rem;
+}
+.cta {
+	font-size: 3.2rem;
+	font-weight: 700;
+	margin-top: 0;
+}
+.logo {
+	margin-top: 4rem;
+}
+.terms {
+	font-size: 1.4rem;
+	font-weight: 700;
+	margin: 1rem 0 0;
+}

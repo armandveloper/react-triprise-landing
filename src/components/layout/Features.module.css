@@ -1,0 +1,9 @@
+.features {
+	background-color: var(--color-blue);
+	color: #fff;
+	padding: 6rem 4rem;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	column-gap: 4rem;
+	transform: translate3d(0, -25%, 0);
+}

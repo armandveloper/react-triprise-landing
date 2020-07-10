@@ -1,0 +1,22 @@
+.card {
+	cursor: pointer;
+}
+.image {
+	display: block;
+	height: 24rem;
+	object-fit: cover;
+	width: 100%;
+}
+.title {
+	font-size: 2rem;
+	margin-bottom: 1rem;
+	margin-top: 2rem;
+}
+.text {
+	color: #8e8e8e;
+	font-weight: 500;
+	margin: 0;
+	max-height: 5rem;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
