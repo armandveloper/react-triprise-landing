@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/react-triprise-landing/static/css/main.f9416c2a.chunk.css",
+    "main.js": "/react-triprise-landing/static/js/main.d721e4a1.chunk.js",
+    "main.js.map": "/react-triprise-landing/static/js/main.d721e4a1.chunk.js.map",
+    "runtime-main.js": "/react-triprise-landing/static/js/runtime-main.1ac23956.js",
+    "runtime-main.js.map": "/react-triprise-landing/static/js/runtime-main.1ac23956.js.map",
+    "static/js/2.f0c38b16.chunk.js": "/react-triprise-landing/static/js/2.f0c38b16.chunk.js",
+    "static/js/2.f0c38b16.chunk.js.map": "/react-triprise-landing/static/js/2.f0c38b16.chunk.js.map",
+    "index.html": "/react-triprise-landing/index.html",
+    "precache-manifest.935ccc2eaddebb0d195cbab7d2348d31.js": "/react-triprise-landing/precache-manifest.935ccc2eaddebb0d195cbab7d2348d31.js",
+    "service-worker.js": "/react-triprise-landing/service-worker.js",
+    "static/css/main.f9416c2a.chunk.css.map": "/react-triprise-landing/static/css/main.f9416c2a.chunk.css.map",
+    "static/js/2.f0c38b16.chunk.js.LICENSE.txt": "/react-triprise-landing/static/js/2.f0c38b16.chunk.js.LICENSE.txt",
+    "static/media/abu-dhabi.jpg": "/react-triprise-landing/static/media/abu-dhabi.296a7332.jpg",
+    "static/media/australia.jpg": "/react-triprise-landing/static/media/australia.8ac7456f.jpg",
+    "static/media/Hero.module.css": "/react-triprise-landing/static/media/hero.aa1a2807.jpg",
+    "static/media/offer.jpg": "/react-triprise-landing/static/media/offer.22b7b0bd.jpg",
+    "static/media/paris.jpg": "/react-triprise-landing/static/media/paris.7dab95de.jpg",
+    "static/media/popular1.jpg": "/react-triprise-landing/static/media/popular1.42b76ba5.jpg",
+    "static/media/popular2.jpg": "/react-triprise-landing/static/media/popular2.482bc1a6.jpg",
+    "static/media/popular3.jpg": "/react-triprise-landing/static/media/popular3.6a8c7d44.jpg",
+    "static/media/popular4.jpg": "/react-triprise-landing/static/media/popular4.730d887f.jpg",
+    "static/media/popular5.jpg": "/react-triprise-landing/static/media/popular5.d8d8ee6d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ac23956.js",
+    "static/js/2.f0c38b16.chunk.js",
+    "static/css/main.f9416c2a.chunk.css",
+    "static/js/main.d721e4a1.chunk.js"
+  ]
+}
