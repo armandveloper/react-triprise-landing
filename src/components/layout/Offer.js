@@ -16,6 +16,7 @@ function Offer() {
 						<Button
 							type="button-white"
 							text="Learn more"
+							ariaLabel="Learn more about the discount"
 							capitalize={true}
 						/>
 						<div className={styles.logo}>

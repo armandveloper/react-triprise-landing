@@ -5,6 +5,7 @@ import Features from './components/layout/Features';
 import Explore from './components/layout/Explore';
 import Offer from './components/layout/Offer';
 import Destinations from './components/layout/Destinations';
+import Footer from './components/layout/Footer';
 
 function App() {
 	return (
@@ -15,6 +16,7 @@ function App() {
 			<Explore />
 			<Offer />
 			<Destinations />
+			<Footer />
 		</>
 	);
 }

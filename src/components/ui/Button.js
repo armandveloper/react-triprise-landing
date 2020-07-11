@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './Button.module.css';
 
-function Button({ text, type, capitalize, uppercase }) {
+function Button({ text, type, capitalize, uppercase, ariaLabel }) {
 	const transform = capitalize
 		? 'capitalize'
 		: uppercase
@@ -13,6 +13,7 @@ function Button({ text, type, capitalize, uppercase }) {
 			className={`${styles.button} ${styles[type]} ${
 				transform ? styles[transform] : ''
 			}`}
+			aria-label={ariaLabel}
 		>
 			{text}
 		</a>

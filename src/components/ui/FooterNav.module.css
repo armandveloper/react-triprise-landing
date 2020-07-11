@@ -1,0 +1,15 @@
+.space {
+	margin-top: 7rem;
+}
+.headline {
+	margin-bottom: 2.5rem;
+	margin-top: 0;
+	text-transform: uppercase;
+}
+.link {
+	color: #fff;
+	display: block;
+	font-weight: 500;
+	margin: 0 !important;
+	padding: 0.25rem 0;
+}
